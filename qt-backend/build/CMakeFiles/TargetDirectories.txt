@@ -1,0 +1,3 @@
+/home/offox/projects/electron-qt-project/qt-backend/build/CMakeFiles/QtBackend.dir
+/home/offox/projects/electron-qt-project/qt-backend/build/CMakeFiles/edit_cache.dir
+/home/offox/projects/electron-qt-project/qt-backend/build/CMakeFiles/rebuild_cache.dir
